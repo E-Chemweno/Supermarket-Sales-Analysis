@@ -1,6 +1,6 @@
 # 🛒 **Supermarket Sales Analysis Project**
 
-![Supermarket Sales Banner](https://via.placeholder.com/1200x300.png?text=Supermarket+Sales+Analysis)
+![Supermarket Sales Banner][(https://via.placeholder.com/1200x300.png?text=Supermarket+Sales+Analysis)](https://stock.adobe.com/search?k=cartoon+supermarket)
 
 ## **Overview**
 
