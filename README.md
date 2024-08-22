@@ -1,10 +1,10 @@
 # 🛒 **Supermarket Sales Analysis Project**
 
-![Supermarket Sales Banner][(https://via.placeholder.com/1200x300.png?text=Supermarket+Sales+Analysis)](https://stock.adobe.com/search?k=cartoon+supermarket)
+![HD-wallpaper-inside-grocery-store-vectors-stock-psd](https://github.com/user-attachments/assets/1d7568d2-ead6-4c46-9fd5-2e202a0c7d91)
 
 ## **Overview**
 
-This project delves into a comprehensive analysis of supermarket sales data to extract actionable business insights. By leveraging Python and its data science libraries, we explore sales trends, product line performance, customer demographics, payment methods, and profitability. The results provide strategic recommendations for optimizing sales, enhancing customer satisfaction, and boosting profitability.
+This project delves into an analysis of supermarket sales data to extract actionable business insights. By leveraging Python and its data science libraries, we explore sales trends, product line performance, customer demographics and payment methods. The results provide strategic recommendations for optimizing sales, enhancing customer satisfaction and boosting profitability.
 
 ## **Objectives**
 
@@ -25,15 +25,7 @@ This project delves into a comprehensive analysis of supermarket sales data to e
 
 4. **Payment Methods Analysis**
    - Examine the distribution and popularity of different payment methods.
-   - Explore correlations between payment methods and customer demographics or purchase amounts.
-
-5. **Gross Margin and Profitability**
-   - Calculate and analyze gross margins across product lines and branches.
-   - Identify high-margin products and areas for profitability improvement.
-
-6. **Correlation and Factor Analysis**
-   - Explore correlations between key variables to uncover hidden patterns.
-   - Investigate factors that strongly influence customer satisfaction.
+   - Explore correlations between payment methods and customer demographics.
 
 ## **Project Structure**
 
@@ -41,7 +33,6 @@ This project delves into a comprehensive analysis of supermarket sales data to e
 ├── data/                 # Dataset used for analysis
 ├── notebooks/            # Jupyter notebooks with code and analysis
 ├── visuals/              # Visualizations and charts generated
-├── dashboard/            # Dashboard or interactive visualizations (if applicable)
 └── README.md             # Project documentation
 ```
 
@@ -53,19 +44,18 @@ This project delves into a comprehensive analysis of supermarket sales data to e
 
 ## **Key Insights**
 
-- **Sales Trends**: Identified peak sales periods and branch contributions.
-- **Product Line Performance**: Highlighted top and underperforming product lines.
-- **Customer Preferences**: Analyzed purchasing patterns by gender and customer type.
-- **Payment Methods**: Assessed payment methods' impact on sales.
-- **Profitability**: Identified high-margin products for profitability improvement.
-
+- **Sales Trends**: Peak sales occurred during the 15th of every month and at 1900hrs is when the sales peak, with Branch C and the city Naypyitaw contributing the most to overall sales.
+- **Product Line Performance**: Food and Beverages were the top-performing categories, while Health and Beauty underperformed, indicating potential areas for improvement.
+- **Customer Preferences**: Females outspent males in most categories except electronics and health and beauty
+- **Payment Methods**: The majority of customers preferred paying with cash followed by e-wallet then credi card
+  
 ## **Getting Started**
 
 ### **Installation**
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/supermarket-sales-analysis.git
+    git clone https://github.com/E-Chemweno/supermarket-sales-analysis.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -84,36 +74,18 @@ This project delves into a comprehensive analysis of supermarket sales data to e
     ```
 2. Run the notebooks in the `notebooks/` directory to replicate the analysis and visualizations.
 
-### **Dashboard (Optional)**
-
-- Explore the interactive dashboard (if applicable) by following the instructions in the `dashboard/` folder.
-
-## **Results and Visualizations**
-
-Here are some of the key visualizations generated during the analysis:
-
-- **Sales Trends**: [Link to Chart](#)
-- **Product Line Performance**: [Link to Chart](#)
-- **Customer Preferences**: [Link to Chart](#)
-
-![Sales Trends Chart](https://via.placeholder.com/600x400.png?text=Sales+Trends)
 
 ## **Challenges and Learnings**
 
-- **Data Cleaning**: Overcame challenges related to missing data and inconsistencies.
 - **Feature Engineering**: Developed new features to enhance analysis, such as time-based aggregations.
 
 ## **Conclusion**
 
-This analysis provides deep insights into supermarket sales dynamics, highlighting areas for business optimization. The findings are actionable and can help inform strategic decisions in marketing, inventory management, and customer relationship management.
+This analysis provides deep insights into supermarket sales dynamics, highlighting areas for business optimization. The findings are actionable and can help inform strategic decisions in marketing, inventory management and customer relationship management.
 
 ## **Contact**
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-
----
-
-This README is structured to highlight the project's purpose, methodology, and outcomes. It provides clear instructions for users to replicate the analysis and offers a professional presentation of your work.
+- **Email**: [your.email@example.com](mailto:chemwenoevans009@gmail.com)
+- **LinkedIn**: [Your LinkedIn Profile][(https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/evans-chemweno/)
